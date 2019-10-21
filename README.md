@@ -43,7 +43,7 @@ Modeling
 
 2.Feature importance plot
 
-Things to do:
+Things to do
 
 1.Instead of euclidean distance use a specilaized distance (vincenty, Haversine)
 
