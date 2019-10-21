@@ -27,7 +27,9 @@ Feature Engineering
 
 6.Create 'distance to center' feature: distance between London's center to listings 
 
-7.Feature imputation using the mean,median values
+7.Create 'amenities_count' from amenities 
+
+8.Feature imputation using the mean,median values
 
 Vizualization
 
@@ -38,6 +40,8 @@ Vizualization
 3.Vizualize various numerical features using boxplot 
 
 Modeling
+
+The dependent variable is listing price
 
 1.Random Forest regreesor with n_estimators tuned using GridSearch 
 
