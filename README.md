@@ -51,14 +51,16 @@ Things to do
 
 1.Instead of euclidean distance use a specilaized distance (vincenty, Haversine)
 
-2.Try different imputation strategies and observe the effect on model's prediction error
+2.Use zipcode,neighbourhood feature to cluster listings
 
-3.Tune other hyperparameters of RandomForest model
+3.Try different imputation strategies and observe the effect on model's prediction error
 
-4.Use different regression models and compare the performance
+4.Tune other hyperparameters of RandomForest model
 
-5.Calculate prediction intervals 
+5.Use different regression models and compare the performance
 
-6.Createan ensemble of regression models
+6.Calculate prediction intervals 
+
+7.Createan ensemble of regression models
 
 
