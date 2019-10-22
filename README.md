@@ -57,4 +57,8 @@ Things to do
 
 4.Use different regression models and compare the performance
 
-5.Createan ensemble of regression models
+5.Calculate prediction intervals 
+
+6.Createan ensemble of regression models
+
+
