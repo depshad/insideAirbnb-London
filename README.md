@@ -61,6 +61,6 @@ Things to do
 
 6.Calculate prediction intervals 
 
-7.Createan ensemble of regression models
+7.Create an ensemble of regression models
 
 
