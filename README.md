@@ -5,7 +5,7 @@ Data can be downloaded from http://data.insideairbnb.com/united-kingdom/england/
 
 ## Exploratory Data Analysis
 
-*Feature Selection*
+***Feature Selection***
 
 1.Remove features with more than 90% values missing
 
@@ -13,7 +13,7 @@ Data can be downloaded from http://data.insideairbnb.com/united-kingdom/england/
 
 3.Remove empty features
 
-*Feature Engineering*
+***Feature Engineering***
 
 1.Convert boolean features to numerical
 
@@ -47,7 +47,7 @@ The dependent variable is listing price
 
 2.Feature importance plot
 
-*Future Work*
+***Future Work***
 
 1.Instead of euclidean distance use a specilaized distance (vincenty, Haversine)
 
