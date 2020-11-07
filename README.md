@@ -3,9 +3,9 @@ Exploratory Data Analysis and Predictive Modeling for Airbnb London listings
 
 Data can be downloaded from http://data.insideairbnb.com/united-kingdom/england/london/2019-07-10/data/listings.csv.gz
 
-**Exploratory Data Analysis**
+## Exploratory Data Analysis
 
-Feature Selection
+*Feature Selection*
 
 1.Remove features with more than 90% values missing
 
@@ -13,7 +13,7 @@ Feature Selection
 
 3.Remove empty features
 
-Feature Engineering
+*Feature Engineering*
 
 1.Convert boolean features to numerical
 
@@ -31,7 +31,7 @@ Feature Engineering
 
 8.Feature imputation using the mean,median values
 
-**Vizualization**
+## Vizualization
 
 1.Plot log tranformed price feature
 
@@ -39,7 +39,7 @@ Feature Engineering
 
 3.Vizualize various numerical features using boxplot 
 
-**Modeling**
+## Modeling
 
 The dependent variable is listing price
 
@@ -47,7 +47,7 @@ The dependent variable is listing price
 
 2.Feature importance plot
 
-Things to do
+*Future Work*
 
 1.Instead of euclidean distance use a specilaized distance (vincenty, Haversine)
 
