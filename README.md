@@ -1,4 +1,4 @@
-# insideAirbnb-London
+# Inside Airbnb-London
 Exploratory Data Analysis and Predictive Modeling for Airbnb London listings
 
 Data can be downloaded from http://data.insideairbnb.com/united-kingdom/england/london/2019-07-10/data/listings.csv.gz
